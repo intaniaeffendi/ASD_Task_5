@@ -7,3 +7,23 @@
 	<windows.h>
 	<iostream>
 
+1519392774 source:d:\intania effendi-telkom\it telkom\asd-41-08\github\asd_task_5\main.cpp
+	"player.h"
+	"list.h"
+	<conio.h>
+
+1519382020 d:\intania effendi-telkom\it telkom\asd-41-08\github\asd_task_5\player.h
+	"list.h"
+
+1519382852 d:\intania effendi-telkom\it telkom\asd-41-08\github\asd_task_5\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519391741 source:d:\intania effendi-telkom\it telkom\asd-41-08\github\asd_task_5\list.cpp
+	"list.h"
+
+1519392534 source:d:\intania effendi-telkom\it telkom\asd-41-08\github\asd_task_5\player.cpp
+	"player.h"
+	<ctime>
+
